@@ -36,7 +36,7 @@ class LBN_Netlifly {
 	/**
 	 * Kick it off
 	 *
-	 * @param string $env The environment we are going to deplo to.
+	 * @param string $env The environment we are going to deploy to.
 	 */
 	function __construct( $env ) {
 		$this->settings = get_option( 'lb_netlifly' );

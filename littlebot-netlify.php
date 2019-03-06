@@ -144,7 +144,6 @@ final class Littlebot_Netlify {
 		new LBN_Assets( $this );
 		new LBN_Settings( $this );
 		new LBN_Meta_Fields( $this );
-		new LBN_Metaboxes( $this );
 		new LBN_Post( $this );
 	} // END OF PLUGIN CLASSES FUNCTION
 
